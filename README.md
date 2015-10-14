@@ -3,7 +3,7 @@
 
 Sounds
 --
-* Free SFX `<http://freesound.org>`_
+* `Free SFX <http://freesound.org>`_
 * Free Music `<http://incompetech.com/music/>`_
 
 Icons
