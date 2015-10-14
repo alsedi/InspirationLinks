@@ -1,14 +1,13 @@
 # Free Resources and Inspiration for Mobile Development (and not only)
-==
 
 Sounds
 --
-* `Free SFX <http://freesound.org>`_
-* Free Music `<http://incompetech.com/music/>`_
+* [Free SFX](http://freesound.org)
+* [Free Music](http://incompetech.com/music/)
 
 Icons
 --
-* `<http://iconstore.co>`_
+* http://iconstore.co
 * `<http://thenounproject.com>`_
 
 
