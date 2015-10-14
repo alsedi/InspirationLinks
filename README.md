@@ -50,3 +50,7 @@ Mockups & Prototyping
 * http://dunnnk.com
 * http://mockuphone.com
 * [Free collaborate prototype designing tool (powered by Google)](www.pixate.com) App is free, but cloud costs money. 
+
+Mostly Free Datasets
+--
+* [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
