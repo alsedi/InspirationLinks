@@ -33,7 +33,7 @@ Free Videos
 
 Coding & Testing
 --
-* [A lot of UI/UX experiments on Android, *with code on GitHub*](www.androidexperiments.com)
+* [A lot of UI/UX experiments on Android, *with code on GitHub*](http://www.androidexperiments.com)
 * [UX testing](https://usabilityhub.com). You can earn points that you can spend on testing for your projects by working for the community.
 
 UI Collections
