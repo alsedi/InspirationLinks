@@ -55,6 +55,6 @@ Mostly Free Datasets
 --
 * [Awesome Public Datasets](https://github.com/caesar0301/awesome-public-datasets)
 
-Learning Resources
+Machine / Deep Learning Resources
 --
 * [Machine Learning for iOS](https://github.com/alexsosn/iOS_ML)
