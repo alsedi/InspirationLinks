@@ -18,6 +18,7 @@ Color palettes and schemes
 Free Fonts
 --
 * http://katydecorah.com/font-library
+* http://www.dafont.com
 
 Free Stock Photos
 --
