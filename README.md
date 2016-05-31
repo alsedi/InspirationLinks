@@ -37,8 +37,9 @@ Coding & Testing
 * [A lot of UI/UX experiments on Android, *with code on GitHub*](http://www.androidexperiments.com)
 * [UX testing](https://usabilityhub.com). You can earn points that you can spend on testing for your projects by working for the community.
 
-UI Collections
+Collections
 --
+* * https://resourcecards.com Collection of everything for UI design
 All collections are updated on daily basis.
 * http://uxarchive.com
 * http://pttrns.com
