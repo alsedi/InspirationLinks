@@ -39,8 +39,7 @@ Coding & Testing
 
 Collections
 --
-* * https://resourcecards.com Collection of everything for UI design
-All collections are updated on daily basis.
+* https://resourcecards.com Collection of everything for UI design
 * http://uxarchive.com
 * http://pttrns.com
 * http://capptivate.co Animated collection of UI Interfaces, combined by patterns (e.g. Infographics) and visual effects (Blur, Parallax)
