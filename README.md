@@ -26,6 +26,7 @@ Free Stock Photos
 * http://stocksnap.io
 * http://magdeleine.co
 * http://isorepublic.com
+* https://visualhunt.com (Free for commercial use 350K+ Photos)
 
 Free Videos
 --
