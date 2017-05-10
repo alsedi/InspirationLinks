@@ -1,9 +1,11 @@
 # Free Resources and Inspiration for Mobile Development (and not only)
+Mostly CC or royalty free.
 
 Sounds
 --
-* [Free SFX](http://freesound.org)
-* [Free Music](http://incompetech.com/music/)
+* http://freesound.org
+* http://incompetech.com/music/ 
+* http://chillhoprecords.com/license/ 
 
 Icons
 --
@@ -32,9 +34,6 @@ Free Videos
 --
 * http://www.coverr.co
 * http://videos.pexels.com
-
-Free Music
-* http://chillhoprecords.com/license/ 
 
 Coding & Testing
 --
