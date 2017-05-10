@@ -33,6 +33,9 @@ Free Videos
 * http://www.coverr.co
 * http://videos.pexels.com
 
+Free Music
+* http://chillhoprecords.com/license/ 
+
 Coding & Testing
 --
 * [A lot of UI/UX experiments on Android, *with code on GitHub*](http://www.androidexperiments.com)
